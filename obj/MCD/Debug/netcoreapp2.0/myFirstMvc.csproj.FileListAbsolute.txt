@@ -1,0 +1,11 @@
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\bin\MCD\Debug\netcoreapp2.0\myFirstMvc.deps.json
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\bin\MCD\Debug\netcoreapp2.0\myFirstMvc.runtimeconfig.json
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\bin\MCD\Debug\netcoreapp2.0\myFirstMvc.runtimeconfig.dev.json
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\bin\MCD\Debug\netcoreapp2.0\myFirstMvc.dll
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\bin\MCD\Debug\netcoreapp2.0\myFirstMvc.pdb
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\obj\MCD\Debug\netcoreapp2.0\myFirstMvc.csprojResolveAssemblyReference.cache
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\obj\MCD\Debug\netcoreapp2.0\myFirstMvc.csproj.CoreCompileInputs.cache
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\obj\MCD\Debug\netcoreapp2.0\myFirstMvc.AssemblyInfoInputs.cache
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\obj\MCD\Debug\netcoreapp2.0\myFirstMvc.AssemblyInfo.cs
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\obj\MCD\Debug\netcoreapp2.0\myFirstMvc.dll
+C:\Users\Hernando\Documents\dotNet\myFirstMvc\obj\MCD\Debug\netcoreapp2.0\myFirstMvc.pdb
